@@ -1,3 +1,4 @@
 # sachin_demo
-This is my first git repository
-Author Sachin
+This is my first git repository.
+<br>
+Author - Sachin
